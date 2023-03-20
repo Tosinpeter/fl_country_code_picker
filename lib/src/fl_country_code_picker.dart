@@ -9,10 +9,10 @@ import 'package:flutter/material.dart';
 const _kFavoritesIcon = Icon(Icons.favorite, color: Colors.red);
 
 /// Default modal and TextField default borderRadius.
-const kBorderRadius = Radius.circular(10);
+const kBorderRadius = Radius.circular(24);
 
 /// Default modal background color.
-const _kBackgroundColor = Color(0xFFFFFFFF);
+const _kBackgroundColor = Colors.black;
 
 /// Default modal barrier color.
 const _kBarrierColor = Color(0x50000000);
